@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   so_long.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maksoy <maksoy@student.42.fr>              +#+  +:+       +#+        */
+/*   By: maksoy <42istanbul.com.tr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/13 01:40:27 by maksoy            #+#    #+#             */
 /*   Updated: 2022/10/13 01:50:34 by maksoy           ###   ########.fr       */
